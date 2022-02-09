@@ -19,7 +19,7 @@ const Header = ({ siteTitle }) => (
       <img width={40}
            style={{ borderRadius: 10, marginRight: "1rem", border: '1px solid #333' }}
         // src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/01/f5/d2/01f5d200-68d1-7734-a01d-945830405327/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
-           src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/01/f5/d2/01f5d200-68d1-7734-a01d-945830405327/AppIcon-1x_U007emarketing-0-7-0-85-220.png/230x0w.png"
+           src="https://inlushan.top/res/newlogo.png"
            alt=""/>
     </Link>
 
