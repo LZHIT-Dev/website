@@ -1,0 +1,33 @@
+.newHeader {
+}
+
+.newHeader a{
+  text-transform: uppercase;
+  font-family: var(--monospace-font);
+  color: var(--primary-color)
+}
+
+.header {
+  background-color: #222;
+}
+
+.headerNav {
+  height: 44px;
+  line-height: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.headerNav a{
+  text-decoration: none;
+  font-family: var(--monospace-font);
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.branding {
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
