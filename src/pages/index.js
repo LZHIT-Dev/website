@@ -45,7 +45,7 @@ const IndexPage = () => (
     </div>
 
     {/*<hr className={styles.hr}/>*/}
-    <h2 className={styles.h2}>Screenshots</h2>
+    <h2 className={styles.h2}>应用截图</h2>
     <div className={styles.previews}>
       <img
         width={285} height={684}
