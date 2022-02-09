@@ -19,7 +19,7 @@ const IndexPage = () => (
     <br/>
 
     <div>
-      <h1 style={{ letterSpacing: 1, marginBottom: "1rem"}}>在鹿山Aoo</h1>
+      <h1 style={{ letterSpacing: 1, marginBottom: "1rem"}}>在鹿山App</h1>
       <p className={styles.slogan}>
       在鹿山App是柳州工学院师生的绝佳之选。此应用能够帮助你快捷认证校园网、提供教务系统和学工系统的快捷入口，还能很方便地查询图书馆馆藏。南北校区均可下载使用。
       </p>
@@ -30,7 +30,7 @@ const IndexPage = () => (
         <a style={{ height: 40, display: "inline-block", marginBottom: 10 }} href={Pgyer} target="_blank">
           <img height={40} src={require("../images/pgyerDownload.png")} alt=""/>
         </a>
-        <a style={{ height: 40, display: "inline-block", marginBottom: 10 }} href={localDown} target="_blank">
+        <a style={{ height: 40, display: "inline-block", marginBottom: 10, marginLeft: 10}} href={localDown} target="_blank">
           <img height={40} src={require("../images/localDownload.png")} alt=""/>
         </a>
         <br/>
