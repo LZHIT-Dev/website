@@ -48,19 +48,19 @@ const IndexPage = () => (
     <h2 className={styles.h2}>应用截图</h2>
     <div className={styles.previews}>
       <img
-        width={285} height={684}
+        width={317} height={684}
         src={require("../images/intro1.png")}/>
       <img
-        width={285} height={684}
+        width={317} height={684}
         src={require("../images/intro2.png")}/>
       <img
-        width={285} height={684}
+        width={317} height={684}
         src={require("../images/intro3.png")}/>
       <img
-        width={285} height={684}
+        width={317} height={684}
         src={require("../images/intro4.png")}/>
               <img
-        width={285} height={684}
+        width={317} height={684}
         src={require("../images/intro5.png")}/>
     </div>
   </Layout>
