@@ -59,6 +59,9 @@ const IndexPage = () => (
       <img
         width={285} height={684}
         src={require("../images/intro4.png")}/>
+              <img
+        width={285} height={684}
+        src={require("../images/intro5.png")}/>
     </div>
   </Layout>
 )

@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `ServerCat`,
-    description: `Linux server status, docker management and ssh client for iOS `,
-    author: `@waylybaye`,
-    siteUrl: `https://servercat.app`,
+    title: `inLuShan`,
+    description: `An unofficial school app for LZHIT.`,
+    author: `@IveTien`,
+    siteUrl: `https://inlushan.top`,
   },
   plugins: [
     // `gatsby-plugin-sitemap`,

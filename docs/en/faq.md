@@ -6,7 +6,7 @@ title: "inLuShan FAQ"
 
 ### How does inLuShan work and does it steal my private information?
 
-inLuShan provides its services to you through a "Micro-Service" provider called FinClip.
+inLuShan provides its services to you through a "Lite-Service" provider called FinClip.
 
 inLuShan does not collect any information you enter on any page during its operation, all the information you enter in inLuShan is stored locally.
 
